@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentNavigation" ns1:targetApi="kitkat">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowDrawsSystemBarBackgrounds" ns1:targetApi="lollipop">false</item>
+        <item name="android:windowLayoutInDisplayCutoutMode" ns1:targetApi="o_mr1">
+            shortEdges
+        </item>
+    </style>
+    <style name="Base.Theme.AppCompat" parent="Base.V28.Theme.AppCompat"/>
+    <style name="Base.Theme.AppCompat.Light" parent="Base.V28.Theme.AppCompat.Light"/>
+    <style name="Base.V28.Theme.AppCompat" parent="Base.V26.Theme.AppCompat">
+        <!-- We can use the platform styles on API 28+ -->
+        <item name="dialogCornerRadius">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="Base.V28.Theme.AppCompat.Light" parent="Base.V26.Theme.AppCompat.Light">
+        <!-- We can use the platform styles on API 28+ -->
+        <item name="dialogCornerRadius">?android:attr/dialogCornerRadius</item>
+    </style>
+</resources>

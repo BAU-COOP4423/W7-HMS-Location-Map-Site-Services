@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_gas_station.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_gas_station.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_church.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_church.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_cinema.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_cinema.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_park.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_park.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_school.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_school.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_restaurant.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_restaurant.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_beauty.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_beauty.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_clear.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_mosque.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_mosque.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_school.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_school.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_pulse.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\anim\\pulse.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_parking.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_hospital.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_hospital.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_bus.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_bus.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_clear.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_park.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_park.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_cafe.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_cafe.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_cafe.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_cafe.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_mosque.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_mosque.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_beauty.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_beauty.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_atm.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_atm.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_gym.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_gym.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_restaurant.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_restaurant.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_bus.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_bus.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_clear.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_bank.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_bank.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_police.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_police.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_atm.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_atm.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_cafe.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_cafe.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_mosque.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_mosque.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_atm.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_atm.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_school.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_school.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_market.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_market.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_market.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_market.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_church.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_church.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_cinema.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_cinema.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_restaurant.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_restaurant.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_gym.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_gym.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_market.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_market.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_parking.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_place.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_place.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_market.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_market.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_place.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_place.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_cafe.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_cafe.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_restaurant.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_restaurant.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_clear.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_delete.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_bakery.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_bakery.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_restaurant.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_restaurant.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_delete.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_bank.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_bank.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_hospital.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_hospital.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_poi_type_item.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\layout\\poi_type_item.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_gas_station.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_gas_station.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_market.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_market.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_bank.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_bank.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_cafe.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_cafe.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_hospital.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_hospital.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_atm.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_atm.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_hospital.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_hospital.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_bus.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_bus.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_church.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_church.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_gas_station.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_gas_station.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_parking.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_parking.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_park.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_park.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_bus.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_bus.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_cinema.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_cinema.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_church.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_church.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_cinema.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_cinema.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_police.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_police.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_hospital.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_hospital.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_park.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_park.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_beauty.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_beauty.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_market.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_market.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_custom_gradient.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\drawable\\button_custom_gradient.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_bakery.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_bakery.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_place.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_place.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_police.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_police.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_bakery.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_bakery.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_gym.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_gym.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_gym.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_gym.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_gas_station.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_gas_station.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_church.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_church.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_cafe.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_cafe.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_bakery.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_bakery.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_delete.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_parking.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_gym.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_gym.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_atm.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_atm.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_cinema.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_cinema.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_clear.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_clear.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_big_marker.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\drawable\\icon_big_marker.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_beauty.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_beauty.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_hospital.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_hospital.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_marker.9.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\drawable\\icon_marker.9.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_bakery.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_bakery.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_police.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_police.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_bank.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_bank.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_delete.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_gym.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_gym.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_school.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_school.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_place.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_place.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_church.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_church.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_church.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_church.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_bus.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_bus.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_bank.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_bank.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_mosque.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_mosque.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_mosque.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_mosque.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_atm.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_atm.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_beauty.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_beauty.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_mosque.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_mosque.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_clear.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_police.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_police.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_place.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_place.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_school.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_school.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_beauty.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_beauty.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_bakery.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_bakery.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_market.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_market.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_park.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_park.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_bus.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_bus.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_gas_station.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_gas_station.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_parking.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_parking.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_atm.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_atm.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_police.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_police.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_gym.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_gym.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_bakery.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_bakery.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_school.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_school.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_police.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_police.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_gas_station.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_gas_station.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_place.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_place.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_beauty.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_beauty.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_park.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_park.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_text.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\drawable\\logo_text.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_hospital.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_hospital.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_map_info_window.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\layout\\map_info_window.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_clear.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_clear.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_bus.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_bus.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_delete.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_delete.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ne_ariyorsun.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\drawable\\ne_ariyorsun.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_mosque.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_mosque.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_cinema.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_cinema.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_school.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_school.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_bank.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_bank.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_park.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_park.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_bank.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_bank.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_cinema.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_cinema.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_delete.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_cafe.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_cafe.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_delete.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_gas_station.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_gas_station.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_restaurant.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_restaurant.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_place.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_place.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_parking.png.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_restaurant.xml.flat",
+        "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_restaurant.xml"
+    }
+]

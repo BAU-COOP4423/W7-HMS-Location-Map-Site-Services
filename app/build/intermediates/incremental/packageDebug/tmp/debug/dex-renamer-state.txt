@@ -1,0 +1,4 @@
+#Tue Nov 23 15:49:49 TRT 2021
+base.0=D\:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

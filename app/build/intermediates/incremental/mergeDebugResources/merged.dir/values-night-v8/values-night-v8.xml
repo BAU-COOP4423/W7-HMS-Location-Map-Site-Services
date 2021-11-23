@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emui_color_primary">#DBFFFFFF</color>
+    <color name="emui_color_secondary">#99FFFFFF</color>
+    <color name="emui_color_text_highlight">#61006CDE</color>
+    <color name="emui_color_text_primary">#DBFFFFFF</color>
+    <color name="emui_color_text_secondary">#99FFFFFF</color>
+    <color name="emui_functional_blue">#3F97E9</color>
+    <color name="hwsearchview_color_plate_bg">#19FFFFFF</color>
+    <color name="hwsearchview_color_plate_bg_click">#33FFFFFF</color>
+    <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="Theme.AppCompat.Dialog.Alert"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="Theme.AppCompat.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="Theme.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="ThemeOverlay.AppCompat.Dark"/>
+</resources>

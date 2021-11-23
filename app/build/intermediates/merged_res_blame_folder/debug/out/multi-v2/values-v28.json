@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\swx1002802\\.gradle\\caches\\transforms-2\\files-2.1\\6ecfbf8ad1e33fb404fb29be647c4c49\\appcompat-1.3.0\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    },
+                    "to": {
+                        "startLines": "18,19,20,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "987,1062,1149,1379",
+                        "endLines": "18,19,23,27",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "1057,1144,1374,1616"
+                    }
+                },
+                {
+                    "source": "D:\\Imports from C\\Work Documents\\Reference Projects\\Muhit-Reference-App-master\\app\\src\\main\\res\\values-v28\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "103",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "991"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "17",
+                        "endColumns": "12",
+                        "endOffsets": "982"
+                    }
+                }
+            ]
+        }
+    ]
+}

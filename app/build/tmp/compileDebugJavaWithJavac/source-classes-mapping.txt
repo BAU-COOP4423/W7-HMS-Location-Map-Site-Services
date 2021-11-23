@@ -1,0 +1,26 @@
+com/hms/referenceapp/muhit/adapters/CustomInfoWindowAdapter.java
+ com.hms.referenceapp.muhit.adapters.CustomInfoWindowAdapter
+com/hms/referenceapp/muhit/kits/MapKit.java
+ com.hms.referenceapp.muhit.kits.MapKit
+com/hms/referenceapp/muhit/common/Constants.java
+ com.hms.referenceapp.muhit.common.Constants
+com/hms/referenceapp/muhit/adapters/PoiTypeAdapter.java
+ com.hms.referenceapp.muhit.adapters.PoiTypeAdapter
+com/hms/referenceapp/muhit/common/Utils.java
+ com.hms.referenceapp.muhit.common.Utils
+ com.hms.referenceapp.muhit.common.Utils$RandomColors
+com/hms/referenceapp/muhit/ui/SplashActivity.java
+ com.hms.referenceapp.muhit.ui.SplashActivity
+com/hms/referenceapp/muhit/kits/LocationKit.java
+ com.hms.referenceapp.muhit.kits.LocationKit
+ com.hms.referenceapp.muhit.kits.LocationKit$1
+com/hms/referenceapp/muhit/BuildConfig.java
+ com.hms.referenceapp.muhit.BuildConfig
+com/hms/referenceapp/muhit/models/PoiTypeModel.java
+ com.hms.referenceapp.muhit.models.PoiTypeModel
+com/hms/referenceapp/muhit/ui/MainActivity.java
+ com.hms.referenceapp.muhit.ui.MainActivity
+ com.hms.referenceapp.muhit.ui.MainActivity$1
+com/hms/referenceapp/muhit/kits/SiteKit.java
+ com.hms.referenceapp.muhit.kits.SiteKit
+ com.hms.referenceapp.muhit.kits.SiteKit$1
